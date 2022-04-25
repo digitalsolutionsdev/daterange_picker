@@ -96,6 +96,12 @@ body {
     }
 }
 
+@media only screen and (max-width:470px) {
+    .cs_date_picker_card {
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width:370px) {
     .cs_date_picker_card .rdrMonth {
         width: 100%;
